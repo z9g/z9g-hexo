@@ -3,6 +3,7 @@ tags:
 ---
 
 # Python
+<http://docs.python-guide.org/en/latest/>
 <https://realpython.com/blog/>
 <http://stackshare.io/medium/the-stack-that-helped-medium-scale-to-2-6-millennia-of-reading-time>
 <http://tavendo.com/blog/post/is-crossbar-the-future-of-python-web-apps/>

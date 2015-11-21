@@ -17,6 +17,11 @@ tags:
 
 ## Django
 
+### Model
+  - [Django中的Model继承](http://www.tuicool.com/articles/z2uyyiY)
+### Auth
+  - [Django权限机制的实现](http://www.jianshu.com/p/01126437e8a4)
+  - [View permissions in Django](http://stackoverflow.com/questions/23104449/view-permissions-in-django)
 ### Realtime
   - <http://crossbar.io/>
   - <http://crossbar.io/docs/Adding-Real-Time-to-Django-Applications/>
@@ -24,10 +29,11 @@ tags:
   - <http://wildfish.com/blog/2014/12/09/swampdragon-real-time-django-notifications/>
   - <https://github.com/anishmenon/django-realtime>
   - <https://github.com/jrief/django-websocket-redis>
-  
+
 ### Bootstrap
 
 ## Django REST Framework
+  - [Django-rest-framework timezone aware renderers/parsers](http://stackoverflow.com/questions/17331578/django-rest-framework-timezone-aware-renderers-parsers)
 ## MySQL
 ## Redis
 ## Celery
@@ -83,6 +89,7 @@ tags:
 # Editor
 
 ## Vim
+  - <http://coolshell.cn/articles/11312.html>
 ## Sublime3
 ## Mou
 
