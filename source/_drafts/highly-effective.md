@@ -19,3 +19,6 @@ tags:
 # 番茄工作法
 
 # GTD
+
+# Google Snippets
+- [Google Snippets](http://blog.idonethis.com/google-snippets-internal-tool/)
