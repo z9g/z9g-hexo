@@ -117,3 +117,7 @@ tags:
 ## MQTT
 ## WAMP
 
+
+# RESTful API
+
+- [Bearer Token](http://haomou.net/2014/08/13/2014_bare_token/)
