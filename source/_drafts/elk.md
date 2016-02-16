@@ -2,6 +2,33 @@ title: ELK
 tags:
 ---
 
+## filebeat
+
+```
+curl -L -O https://download.elastic.co/beats/filebeat/filebeat_1.1.1_amd64.deb
+sudo dpkg -i filebeat_1.1.1_amd64.deb
+cat /etc/filebeat/filebeat.yml
+sudo service filebeat restart
+filebeat -e -c filebeat.yml -d "*"
+```
+
+## logstash
+
+```
+bin/plugin install logstash-input-beats
+```
+
+## Install ELK on Aliyun Ubuntu 14.04
+
+```
+apt-get install software-properties-common
+add-apt-repository -y ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get -y install oracle-java8-installer
+
+```
+
+
 # References
 - [使用ELK(Elasticsearch + Logstash + Kibana) 搭建日志集中分析平台实践](https://wsgzao.github.io/post/elk/)
 - [日志收集架构－ELK](http://blog.kazaff.me/2015/06/05/%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86%E6%9E%B6%E6%9E%84--ELK/)
@@ -10,3 +37,4 @@ tags:
 - [ELK in Docker 安装、配置和效果展示](https://blog.sectong.com/blog/elk_in_docker.html)
 - [How To Install Elasticsearch 1.7, Logstash 1.5, and Kibana 4.1 (ELK Stack) on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-1-7-logstash-1-5-and-kibana-4-1-elk-stack-on-ubuntu-14-04)
 - [ELKstack 中文指南](https://www.gitbook.com/book/chenryn/kibana-guide-cn/details)
+- [How To Install Elasticsearch, Logstash, and Kibana (ELK Stack) on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04)
