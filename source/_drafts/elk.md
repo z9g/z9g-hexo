@@ -88,6 +88,9 @@ curl -O https://gist.githubusercontent.com/thisismitch/3429023e8438cc25b86c/raw/
 curl -XPUT 'http://localhost:9200/_template/filebeat?pretty' -d@filebeat-index-template.json
 ```
 
+## Debug
+- <http://grokdebug.herokuapp.com/>
+
 
 # References
 - [使用ELK(Elasticsearch + Logstash + Kibana) 搭建日志集中分析平台实践](https://wsgzao.github.io/post/elk/)
