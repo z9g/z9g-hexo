@@ -11,6 +11,10 @@ tags:
 
 > uncheck the Text Rendering option Draw bold text in bright colors
 
+# iTerm Cobalt2-iterm
+
+- <https://github.com/wesbos/Cobalt2-iterm>
+
 
 # .zshrc
 
