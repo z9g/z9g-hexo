@@ -32,6 +32,11 @@ plugins=(git brew history node npm sudo django)
 
 # Vim
 
+```
+brew install ctags
+pip install dbgp vim-debug pep8 flake8 pyflakes isort
+```
+
 - <http://ethanschoonover.com/solarized/vim-colors-solarized>
 - <https://github.com/klen/python-mode>
 - <https://github.com/fisadev/fisa-vim-config>
