@@ -14,5 +14,15 @@ tags:
 
 - <https://github.com/JakeLin/SwiftWeather>
 
+# StoryBoard
+
+- [代码手写UI，xib和StoryBoard间的博弈](http://www.uml.org.cn/itnews/2014010307.asp)
+- [Storyboards & XIBs: Best Practices](http://mobilejazz.com/blog/storyboards-xibs-best-practices/)
+- [When to use Storyboard and when to use XIBs](http://stackoverflow.com/questions/9404471/when-to-use-storyboard-and-when-to-use-xibs)
+
+# Best Practices
+
+- <https://github.com/futurice/ios-good-practices>
+
 # References
 - [The Swift Programming Language 中文版](http://wiki.jikexueyuan.com/project/swift/)
