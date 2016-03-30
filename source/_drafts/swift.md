@@ -24,6 +24,10 @@ tags:
 
 - <https://github.com/futurice/ios-good-practices>
 
+# Algorithm
+
+- <https://github.com/hollance/swift-algorithm-club>
+
 # References
 
 - [The Swift Programming Language 中文版](http://wiki.jikexueyuan.com/project/swift/)

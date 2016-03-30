@@ -24,5 +24,9 @@ tags:
 
 - <https://github.com/ReactiveX/RxPY>
 
+# RxSwfit
+
+- [RxSwift 函数响应式编程](https://realm.io/cn/news/slug-max-alexander-functional-reactive-rxswift/)
+
 # References
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
