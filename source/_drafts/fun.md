@@ -10,6 +10,17 @@ tags:
 - <http://pm2.keymetrics.io/>
 
 
+## OPS
+
+- <http://netdata.firehol.org/>
+
+## App
+
+- <https://github.com/googlesamples/android-architecture>
+
+## Data
+
+- <https://github.com/airbnb/caravel>
 
 
 # References
