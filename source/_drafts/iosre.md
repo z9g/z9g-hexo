@@ -8,6 +8,14 @@ tags:
 make update-theos
 ```
 
+# resign
+
+- [最简单的重签名应用的方法](http://bbs.iosre.com/t/topic/2966)
+- [一步一步实现iOS微信自动抢红包(非越狱)](http://www.jianshu.com/p/189afbe3b429)
+
+# App Hook
+
+- [iOS冰与火之歌番外篇 - 在非越狱手机上进行App Hook](http://drops.wooyun.org/papers/12803)
 
 
 # References
