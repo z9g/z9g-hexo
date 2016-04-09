@@ -17,3 +17,4 @@ tags:
 - [证书及 Provisioning Profile 文件的制作管理方法](http://blog.fir.im/zhengshu/)
 - [iOS 证书 设置指南](http://docs.jpush.cn/pages/viewpage.action?pageId=1343727)
 - [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)
+- [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1)

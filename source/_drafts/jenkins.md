@@ -39,6 +39,9 @@ xcodebuild -list
 xcodebuild -target xxx
 xcodebuild -target xxx -configuration Debug
 xcodebuild clean
+
+codesign -f -s cert xx.app/appex/dylib
+xcrun -sdk iphoneos PackageApplication -v WeChat.app  -o ~/WeChat.ipa
 ```
 
 # References
