@@ -29,6 +29,18 @@ pip install jieba
 pip install requests
 ```
 
+# API Design
+
+- [Reddit API](https://www.reddit.com/dev/api)
+- JWT
+
+
+# TOTO
+
+- Dcoker
+- Celery
+
+
 # References
 - [简单的线性回归算法屏蔽垃圾评论](http://www.hutuseng.com/article/simple-linear-regression-filter-spam-comments)
 - [A TensorFlow Tutorial: Email Classification](http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html)
