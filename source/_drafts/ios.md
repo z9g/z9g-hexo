@@ -18,3 +18,4 @@ tags:
 - [iOS 证书 设置指南](http://docs.jpush.cn/pages/viewpage.action?pageId=1343727)
 - [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)
 - [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1)
+- [iOS 开发者账号注册流程分享（包含企业证书）](http://www.devstore.cn/essay/essayInfo/107.html)
