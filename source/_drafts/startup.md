@@ -17,8 +17,8 @@ tags:
 - PE, Private Equity, 私募股权
 - LP, 有限合伙人 Limited Partner, 就是出钱的,仅仅投资资本,但不参与公司管理
 - GP, 普通合伙人, General Partner, 就是负责投资管理的
-- vested, vesting
-- cliff
+- vested, vesting 成熟
+- cliff 最短服务器
 
 # Examples
 
@@ -35,3 +35,5 @@ tags:
 
 - <http://www.innotree.cn/>
 - [25天赚8亿，围观百姓网史上最强“拆VIE”](http://www.jianshu.com/p/f54eac627c71)
+- [股票期权行权](http://baike.baidu.com/view/3838587.htm)
+- [员工股东维权|行权遥遥无期就是骗人|番外篇之来自硅谷的怨言](https://zhuanlan.zhihu.com/p/21403730?refer=duguodong)
