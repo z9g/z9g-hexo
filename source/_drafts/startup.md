@@ -18,7 +18,7 @@ tags:
 - LP, 有限合伙人 Limited Partner, 就是出钱的,仅仅投资资本,但不参与公司管理
 - GP, 普通合伙人, General Partner, 就是负责投资管理的
 - vested, vesting 成熟
-- cliff 最短服务器
+- cliff 最短服务期
 
 # Examples
 
