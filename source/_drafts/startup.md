@@ -37,3 +37,4 @@ tags:
 - [25天赚8亿，围观百姓网史上最强“拆VIE”](http://www.jianshu.com/p/f54eac627c71)
 - [股票期权行权](http://baike.baidu.com/view/3838587.htm)
 - [员工股东维权|行权遥遥无期就是骗人|番外篇之来自硅谷的怨言](https://zhuanlan.zhihu.com/p/21403730?refer=duguodong)
+- [创始人CEO该拿多少工资？](https://www.huxiu.com/article/32778/1.html)
