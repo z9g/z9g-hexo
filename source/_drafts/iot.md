@@ -14,6 +14,15 @@ tags:
 
 - [Tutorial: Arduino and XBee Communication](http://cs.smith.edu/dftwiki/index.php/Tutorial:_Arduino_and_XBee_Communication)
 
+# Arduino
+- [04.01、Arduino基础知识](https://github.com/MisaZhu/Robotics/wiki/04.01%E3%80%81Arduino%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
+- [Category: Arduino](http://ohcoder.com/blog/categories/arduino/)
+- [1.1.10 使用欧姆定律计算电阻功率](http://book.51cto.com/art/201403/433520.htm)
+
+# Other
+- [继电器](https://zh.wikipedia.org/wiki/%E7%BB%A7%E7%94%B5%E5%99%A8)
+
+
 
 # TOTP
 
