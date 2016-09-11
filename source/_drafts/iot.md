@@ -32,14 +32,5 @@ tags:
 - [银行的动态口令令牌是什么原理](http://blog.jobbole.com/97877/)
 
 
-# WeChat
-
-- <http://wechatpy.readthedocs.io/zh_CN/master/index.html>
-- <https://github.com/aidenzou/vue-weui>
-- <https://github.com/duoduo369/weixin_server>
-- <https://github.com/doraemonext/wechat-python-sdk>
-- <https://github.com/paicha/gxgk-wechat-server>
-
-
 # References
 
