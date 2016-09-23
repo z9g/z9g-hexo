@@ -9,6 +9,9 @@ tags:
 - [树莓派 Raspberry Pi 3 无显示器安装](https://zhuanlan.zhihu.com/p/20794478)
 - [在 Raspberry Pi 上使用和測試 XBee](http://pychen0918.blogspot.jp/2015/10/raspberry-pixbee.html)
 - [树莓派3的使用(Raspbian)](https://www.zybuluo.com/yangxuan/note/321467)
+- [Emulate a Bluetooth keyboard with the Raspberry Pi](https://www.gadgetdaily.xyz/emulate-a-bluetooth-keyboard-with-the-raspberry-pi/)
+- <https://github.com/chipturner/bluetooth>
+
 
 # ZigBee
 
