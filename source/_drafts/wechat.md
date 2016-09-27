@@ -3,6 +3,14 @@ tags:
 ---
 
 # WeChat
+- [PYTHON 微信JSSDK接入 微信分享](http://yvidea.com/2016/04/01/python-wechat-jssdk/)
+
+# JSSDK
+- [微信JS-SDK说明文档](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html)
+- [Demo](http://203.195.235.76/jssdk/)
+- Vue + JSSDK: <https://github.com/viko16/GB-webpack>
+
+
 
 
 # References
