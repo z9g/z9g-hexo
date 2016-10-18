@@ -2,6 +2,12 @@ title: iOS
 tags:
 ---
 
+# WebView Progressive Load
+- <http://stackoverflow.com/questions/19475350/add-an-activity-indicator-on-a-uiwebview>
+- Progressive JPEG
+- <http://qiniu-developer.u.qiniudn.com/docs/v6/api/reference/fop/image/imageview2.html>
+
+
 # Build
 
 - [iOS命令行编译打包ipa脚本](http://www.jianshu.com/p/c14560f4609b)
