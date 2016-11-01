@@ -32,6 +32,13 @@ $ VBoxManage controlvm "default" natpf1 "tcp-port8080,tcp,,8080,,8080"
 $ xcode-select --install
 ```
 
+# Homebrew
+
+```
+brew install jenkins
+launchctl load /usr/local/opt/jenkins/homebrew.mxcl.jenkins.plist
+```
+
 
 # References
 - [PUTTING JENKINS IN A DOCKER CONTAINER](https://engineering.riotgames.com/news/putting-jenkins-docker-container)

@@ -22,3 +22,10 @@ tags:
 
 # Google Snippets
 - [Google Snippets](http://blog.idonethis.com/google-snippets-internal-tool/)
+
+
+# References
+- [工具控的福音——Omnifocus使用心得总结一（基础设置）](http://www.mifengtd.cn/articles/omnifocus-1.html)
+- [工具控的福音——Omnifocus使用心得总结二（项目与情境）](http://www.mifengtd.cn/articles/omnifocus-2.html)
+- <http://sspai.com/search/?q=omnifocus>
+- [OmniFocus 2.4.1 强大的任务管理软件](http://xclient.info/s/omnifocus.html)
