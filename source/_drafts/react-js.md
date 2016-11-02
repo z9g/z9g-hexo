@@ -33,3 +33,5 @@ tags:
 ## References
 
 - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+- [使用React + Redux + React-router构建可扩展的前端应用](http://www.jianshu.com/p/2dc24cd900d9)
+
