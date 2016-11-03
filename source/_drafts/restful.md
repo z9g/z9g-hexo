@@ -19,3 +19,4 @@ tags:
 
 - <https://github.com/aisuhua/restful-api-design-references>
 - [OAuth 2.0 筆記 (6) Bearer Token 的使用方法](https://blog.yorkxin.org/2013/09/30/oauth2-6-bearer-token)
+- <https://en.wikipedia.org/wiki/JSON_Web_Token>
