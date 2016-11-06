@@ -11,6 +11,9 @@ tags:
 - [树莓派3的使用(Raspbian)](https://www.zybuluo.com/yangxuan/note/321467)
 - [Emulate a Bluetooth keyboard with the Raspberry Pi](https://www.gadgetdaily.xyz/emulate-a-bluetooth-keyboard-with-the-raspberry-pi/)
 - <https://github.com/chipturner/bluetooth>
+- [Setup Raspberry Pi 3 as bluetooth speaker](http://raspberrypi.stackexchange.com/questions/47708/setup-raspberry-pi-3-as-bluetooth-speaker)
+- [Turn your Raspberry Pi into a Wireless Portable Bluetooth Audio System A2DP](http://www.instructables.com/id/Turn-your-Raspberry-Pi-into-a-Portable-Bluetooth-A/)
+- [在树莓派上安装游戏模拟器](https://linux.cn/article-1582-1.html)
 
 
 # ZigBee
