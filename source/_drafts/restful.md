@@ -15,6 +15,11 @@ tags:
 - [Reddit](https://www.reddit.com/dev/api)
 - [Medium](https://github.com/Medium/medium-api-docs)
 
+# BFF
+
+- [架构的本质是管理复杂性，微服务本身也是架构演化的结果](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=503509010&idx=1&sn=63a849e4ef85ea6f14bb39d54e2d045d#rd)
+
+
 # References
 
 - <https://github.com/aisuhua/restful-api-design-references>
