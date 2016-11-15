@@ -38,5 +38,43 @@ eval "$(docker-machine env default)"
 docker info
 ```
 
+## CentOS7 firewarlld
+
+```
+https://docs.docker.com/v1.6/installation/centos/#installing-docker-centos-7
+http://www.lxy520.net/2015/09/24/centos-7-docker-qi-dong-bao/
+
+service iptables status
+iptables --list
+service iptables stop
+
+systemctl status firewalld
+firewall-cmd --list-all
+firewall-cmd --list-ports
+firewall-cmd --permanent --list-ports
+firewall-cmd --zone=public --permanent --list-ports
+less /usr/lib/firewalld/services/http.xml
+firewall-cmd --state
+firewall-cmd --get-zones
+firewall-cmd --get-services
+firewall-cmd --query-service http
+firewall-cmd --add-servie=http
+firewall-cmd --add-service=http
+firewall-cmd --query-service http
+firewall-cmd --remove-service=http
+firewall-cmd --query-service http
+firewall-cmd --query-service https
+firewall-cmd --query-service http
+
+firewall-cmd --permanent --zone=trusted --change-interface=docker0
+firewall-cmd --permanent --zone=trusted --add-port=4243/tcp
+firewall-cmd --reload
+
+简单粗暴:
+systemctl stop firewalld
+systemctl stop docker
+systemctl start docker
+```
+
 # References
 - <http://console.d.aliyun.com/index2.html/?spm=0.0.0.0.A1b8t7#/docker/booster>
