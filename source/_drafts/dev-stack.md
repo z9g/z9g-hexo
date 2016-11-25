@@ -18,6 +18,7 @@ tags:
 ## Python
 
 ### [Tox](https://testrun.org/tox/latest/)
+  - [使用 tox flake8 pytest 规范 python 项目](http://www.cnblogs.com/fengyc/p/5803798.html)
 
 ## Django
 
@@ -41,6 +42,9 @@ tags:
 ## MySQL
 ## Redis
 ## Celery
+  - [First Steps with Celery](http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html)
+  - [Configuring and Running Django + Celery in Docker Containers](https://www.syncano.io/blog/configuring-running-django-celery-docker-containers-pt-1/)
+  - [Dockerize a Flask, Celery, and Redis Application with Docker Compose](https://nickjanetakis.com/blog/dockerize-a-flask-celery-and-redis-application-with-docker-compose)
 ## Gearman
 
 
