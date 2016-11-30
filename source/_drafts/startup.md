@@ -19,6 +19,15 @@ tags:
 - GP, 普通合伙人, General Partner, 就是负责投资管理的
 - vested, vesting 成熟
 - cliff 最短服务期
+- Option, RSU
+- 授予，归属
+- 行权价 Grant Price; 本金 = 股数 * 行权价
+- 市场公允价 Fair Market Value，FMV
+- 股票, ADS 兑换
+
+# Grant Price
+
+一般是在上一次融资的时候的价格上打一个折(投资人7~8折，员工2~3折)
 
 # Examples
 
@@ -38,3 +47,5 @@ tags:
 - [股票期权行权](http://baike.baidu.com/view/3838587.htm)
 - [员工股东维权|行权遥遥无期就是骗人|番外篇之来自硅谷的怨言](https://zhuanlan.zhihu.com/p/21403730?refer=duguodong)
 - [创始人CEO该拿多少工资？](https://www.huxiu.com/article/32778/1.html)
+- [有关期权股票与缴税的分享](http://oceanbase.org.cn/?p=104)
+- [关于期权的若干硬知识，知道这些就不那么担心了](https://36kr.com/p/5051932.html)
