@@ -26,6 +26,16 @@ git revert
 git reset
 ```
 
+## Best Practices
+- [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
+- [GitHub Best Practices: Get the Most Out of the GitHub Platform](https://blog.bloc.io/github-best-practices/)
+
+## SaaS
+- <https://www.zenhub.com>
+- <https://app.shippable.com>
+- <https://github.com/integrations>
+
+
 # References
 - [使用git和github进行协同开发流程](http://livoras.com/post/28)
 - [Github 發 Pull Request & 貢獻流程速查](https://gist.github.com/timdream/5968469)

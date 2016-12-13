@@ -49,3 +49,6 @@ Payload/WeChat.app/Watch/WeChatWatchNative.app/PlugIns/WeChatWatchNativeExtensio
 - [Theos简介](http://www.dechao.net/theos/)
 - [iOS微信抢红包Tweak安装教程](http://www.swiftyper.com/ios-tweak-install-guide/)
 - <https://www.reddit.com/r/jailbreakdevelopers/comments/3m2ynf/question_error_when_compiling_against_kirbytheos/>
+- [软件破解过程详解（以Paw软件为例）](http://guochenglai.com/2016/06/16/paw-crack/)
+- [逆向工程 - Reveal、IDA、Hopper、https抓包 等](http://www.cnblogs.com/dahe007/p/5546990.html)
+- [Mac 版迅雷，免费使用高速通道，离线下载](http://www.jianshu.com/p/6d7e64920268)
