@@ -14,6 +14,8 @@ tags:
 - [Setup Raspberry Pi 3 as bluetooth speaker](http://raspberrypi.stackexchange.com/questions/47708/setup-raspberry-pi-3-as-bluetooth-speaker)
 - [Turn your Raspberry Pi into a Wireless Portable Bluetooth Audio System A2DP](http://www.instructables.com/id/Turn-your-Raspberry-Pi-into-a-Portable-Bluetooth-A/)
 - [在树莓派上安装游戏模拟器](https://linux.cn/article-1582-1.html)
+- [树莓派搭建最简单电路](http://blog.chenxu.me/post/detail?id=51a7c1d0-b30f-45a6-bc85-c4d309176dd5)
+- [树莓派 – 使用GPIO接口控制发光二极管](http://www.wutianqi.com/?p=3629)
 
 
 # ZigBee
